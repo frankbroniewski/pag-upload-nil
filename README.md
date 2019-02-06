@@ -6,4 +6,4 @@ Users can use this script to remove all nodes which have an xsi:nil="true"
 attribute.
 
 usage (in an OSGeo4W-Shell for example)
-> python clean_pag_gml pag_C006.gml pag_C006_clean.gml
+> python clean_pag_gml.py pag_C006.gml pag_C006_clean.gml
